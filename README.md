@@ -17,3 +17,12 @@ The supported values, for now, are:
 ![Final output](/screenshots/output.png?raw=true "output")
 
 And as you can see above the program has saved all the required problem statements into the directory.
+
+
+### Usage
+
+These steps assume you have Node.js >= 8.0 and NPM installed in advance.
+
++ Clone the repo
++ Run ```npm install```
++ Run ```node app.js``` in the directory and you will be guided.
